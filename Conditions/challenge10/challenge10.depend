@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662840349 source:c:\users\mouad fifel\desktop\youcode\challenge---condition\challenge10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
